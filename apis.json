@@ -1,0 +1,85 @@
+{
+    "name": "PromptCloud",
+    "description": "Our web scraping service helps companies get the data they want, the way they need it. We use web crawling, web scraping and data extraction technologies to deliver clean and ready-to-use data.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2511-promptcloud.jpg",
+    "tags": [
+        "have api",
+        "scraping",
+        "scraping web crawler"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/promptcloud\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "PromptCloud",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2511-promptcloud.jpg",
+            "humanURL": "http:\/\/promptcloud.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/promptcloud-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.promptcloud.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.promptcloud.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.promptcloud.com\/feeds\/posts\/default?alt=rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/promptcloud"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/promptcloud"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.promptcloud.com\/promptcloud-api-documentation\/"
+        },
+        {
+            "type": "Email",
+            "url": "info+freelancer@promptcloud.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@promptcloud.com"
+        },
+        {
+            "type": "Email",
+            "url": "hiring@promptcloud.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@promptcloud.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/promptcloud"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/promptcloud"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/promptcloud.com\/"
+        }
+    ]
+}
